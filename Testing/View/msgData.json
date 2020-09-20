@@ -1,0 +1,36 @@
+
+[
+    {
+        "id": "1",
+        "msg": "Hi ABC, your appointment at Sunway, on Friday, August 7th 2020, 9:30 am is confirmed. For more information, please contact 60123456789",
+        "shop": "Salon A",
+        "date": "2020-08-08",
+        "tel": "01111639290",
+        "img": "A"
+    },
+    {
+        "id": "2",
+        "msg": "Hi ABC, your outstandings balance at Salon B is 65.00",
+        "shop": "Salon B",
+        "date": "2020-08-08",
+        "tel": "0123456789",
+        "img": "B"
+    },
+    {
+        "id": "3",
+        "msg": "Hi ABC, your outstan0.00",
+        "shop": "Salon C",
+        "date": "2020-08-08",
+        "tel": "0112345678",
+        "img": "C"
+    },
+    {
+        "id": "3",
+        "msg": "Hi ABC, your outstandings balance at Salon C is 100.00 asd dds xczxc",
+        "shop": "Salon D",
+        "date": "2020-08-08",
+        "tel": "0112345678",
+        "img": "D"
+    }
+]
+

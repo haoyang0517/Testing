@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "promotion C",
+        "img": "C",
+        "shop": "Salon C",
+        "date": "2020-09-01",
+        "tel": "0123456789",
+        "msg": "This is Promotion A by Salon A",
+    },
+    {
+        "id": "2",
+        "title": "promotion C",
+        "img": "C",
+        "shop": "Salon B",
+        "date": "2020-09-01",
+        "tel": "0123456789",
+        "msg": "This is Promotion B by Salon B",
+    },
+    {
+        "id": "3",
+        "title": "promotion C",
+        "img": "C",
+        "shop": "Salon C",
+        "date": "2020-09-01",
+        "tel": "0123456789",
+        "msg": "This is Promotion C by Salon C",
+    },
+]
